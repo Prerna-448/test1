@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="text">FILL OUT THE INFORMATION BELOW</string>
+    <string name="edit">integer posuere erat a ante venenatis dapibus posuere velit aliquet.</string>
+    <string name="condition">I ACCEPT THE TERMS AND CONDITION</string>
+    <string name="profile">Edit Your Profile</string>
+    <string name="forget">F O R G O T \nP A S S W O R D</string>
+    <string name="ftest">FILL OUT WHERE WE SHOULD SEND\n A RESENT LINK</string>
+    <string name="term"><u>VIEW TERMS AND CONDITION</u></string>
+</resources>
